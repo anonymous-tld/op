@@ -33,12 +33,12 @@
     "noImageResize": "",
     "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=8&rec=1\" style=\"border:0\" alt=\"\" />",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 3,
+    "uniqCompNum": 11,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "next.html": {
       "settings": {
         "main": true,
         "title": "ANONYMOUS SUPPORT",
@@ -177,6 +177,75 @@
           ],
           "_name": "content8",
           "_anchor": "content8-2"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "title": "We are Anonymous",
+        "meta_descr": "#OpSafeWinter",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/oie-523349c1ma6aox-1280x720.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/agLHQ0Uk9Pc",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "#OpSafeWinter",
+          "text": "Welcome to Anonymous #OpSafeWinter 2018/2019<br>Willkommen beim #OpSafeWinter von Anonymous",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://anonymous.support/op/next.html\" data-toolbar=\"-mbrBtnMove\">#OpSafeWinter</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-a"
         }
       ]
     }
