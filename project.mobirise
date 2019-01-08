@@ -33,7 +33,7 @@
     "noImageResize": "",
     "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=8&rec=1\" style=\"border:0\" alt=\"\" />",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 12,
+    "uniqCompNum": 14,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -287,7 +287,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/khGyi7WGvUU",
+              "src": "https://www.youtube.com/embed/zBh5UnFjpZI",
               "autoplay": "on",
               "loop": "on"
             }
