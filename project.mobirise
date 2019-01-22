@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ANONYMOUS.support",
-    "currentPage": "index.html",
+    "currentPage": "social.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "noImageResize": "",
     "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=8&rec=1\" style=\"border:0\" alt=\"\" />",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 14,
+    "uniqCompNum": 19,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -63,7 +63,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.support/opsafewinter\" target=\"_blank\">#OpSafeWinter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.millionmaskmarch.site\" target=\"_blank\">#MillionMaskMarch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.gratis\" target=\"_blank\">#OpenNIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.kundgebungen.space\" target=\"_blank\">#FreeSocial</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.stopacta2.org/\" target=\"_blank\">#StopActa2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:map@anonymous.support\">eMail</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://anonymous.support/map\" target=\"_blank\">WorldMap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.support/opsafewinter\" target=\"_blank\">#OpSafeWinter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.millionmaskmarch.site\" target=\"_blank\">#MillionMaskMarch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.gratis\" target=\"_blank\">#OpenNIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social.html\">#FreeSocial</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.stopacta2.org/\" target=\"_blank\">#StopActa2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:map@anonymous.support\">eMail</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://anonymous.support/map\" target=\"_blank\">WorldMap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -205,7 +205,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.support/opsafewinter\" target=\"_blank\">#OpSafeWinter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.millionmaskmarch.site\" target=\"_blank\">#MillionMaskMarch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.gratis\" target=\"_blank\">#OpenNIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.kundgebungen.space\" target=\"_blank\">#FreeSocial</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.stopacta2.org/\" target=\"_blank\">#StopActa2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:map@anonymous.support\">eMail</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://anonymous.support/map\" target=\"_blank\">WorldMap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.support/opsafewinter\" target=\"_blank\">#OpSafeWinter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.millionmaskmarch.site\" target=\"_blank\">#MillionMaskMarch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.gratis\" target=\"_blank\">#OpenNIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social.html\">#FreeSocial</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.stopacta2.org/\" target=\"_blank\">#StopActa2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:map@anonymous.support\">eMail</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://anonymous.support/map\" target=\"_blank\">WorldMap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -298,6 +298,174 @@
           ],
           "_name": "video1",
           "_anchor": "video1-b"
+        }
+      ]
+    },
+    "social.html": {
+      "settings": {
+        "title": "Social | Anonymous",
+        "meta_descr": "#OpFreeSocial",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.support/opsafewinter\" target=\"_blank\">#OpSafeWinter</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.millionmaskmarch.site\" target=\"_blank\">#MillionMaskMarch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.anonymous.gratis\" target=\"_blank\">#OpenNIC</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social.html\">#FreeSocial</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.stopacta2.org/\" target=\"_blank\">#StopActa2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mailto:map@anonymous.support\">eMail</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://anonymous.support/map\" target=\"_blank\">WorldMap</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/anonymousmaske-128x128.png",
+              "height": 128,
+              "alt": "Anonymous",
+              "link": "http://www.anonymous.support",
+              "title": "Anonymous"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://anonymous.support\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANONYMOUS<br>SUPPORT<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-e"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Fi1C9Tz8FW4",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Social Media Kanäle",
+          "text": "<p><a href=\"https://youtube.com/anonymousdirekt\" target=\"_blank\">YouTube</a>, <a href=\"https://www.bitchute.com/channel/anonymousberlin/\" target=\"_blank\">BitChute</a>, <a href=\"https://twitter.com/anonymousdirekt\" target=\"_blank\">Twitter</a>, <a href=\"https://vk.com/anonymousdirekt\" target=\"_blank\">VK</a>, <a href=\"https://mewe.com/join/anonymousberlin\" target=\"_blank\">Mewe</a>, <a href=\"https://kundgebungen.space/s/anonymous\">Kundgebungen</a>, <a href=\"https://discord.gg/4xn7Fzu\" target=\"_blank\">Discord</a>, <a href=\"https://facebook.com/anonymous.berlin\" target=\"_blank\">Facebook</a>.&nbsp;</p><br><p><span style=\"font-size: 1.07rem;\">Wir weichen aufgrund massiver Zensur auf alternative soziale Netzwerke aus. So können wir unseren Protest weiter fortsetzen und Euch erreichen. Speichert Euch also bitte diese Seite und bringt eure Freunde mit. So zwingen wir, die großen sozialen Netzwerke ihre Zensur zu beenden.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>         ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "www.anonymous.support",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i"
         }
       ]
     }
