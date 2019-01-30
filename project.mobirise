@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ANONYMOUS.support",
-    "currentPage": "social.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "noImageResize": "",
     "google-analytics": "<img src=\"https://statistik.space/piwik/piwik.php?idsite=8&rec=1\" style=\"border:0\" alt=\"\" />",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -187,7 +187,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -287,7 +287,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/hAYK0fceLio",
+              "src": "https://www.youtube.com/embed/hx95qFY5-6k",
               "autoplay": "on",
               "loop": "on"
             }
@@ -308,7 +308,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
